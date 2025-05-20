@@ -1,0 +1,9 @@
+pickle	softmax.pkl
+csvfile	CAPRI_scores_targets.csv
+pid	model
+splittwice	true
+on	pid
+how	right
+pid
+DeepRank_GNN
+GNN_DOVE

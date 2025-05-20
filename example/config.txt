@@ -1,0 +1,2 @@
+Prefix plugins/ScoreMerge/example/
+Plugin ScoreMerge inputfile parameters.txt outputfile deeprank.pkl
